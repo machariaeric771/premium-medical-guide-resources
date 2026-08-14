@@ -193,5 +193,18 @@
             "clinical": "test"
         },
         "labels": []
+    },
+    {
+        "id": "1786710127749",
+        "title": "adrenal cortex",
+        "image": "adrenal gland 2_1.jpg",
+        "notes": {
+            "description": "The adrenal cortex is the outer portion of the adrenal (suprarenal) gland. It is composed of steroid-secreting endocrine cells arranged in three concentric zones:\n\nZona glomerulosa – outermost\nZona fasciculata – middle and largest\nZona reticularis – innermost\n\nThe cells have abundant lipid droplets, giving the cortex a characteristic pale/foamy appearance, especially in the zona fasciculata.",
+            "location": "Forms the outer ~80–90% of the adrenal gland.\nLies immediately beneath the fibrous connective tissue capsule.\nSurrounds the adrenal medulla, which forms the central region.\nAdrenal glands are located superior to the kidneys in the retroperitoneum.",
+            "function": "The adrenal cortex produces steroid hormones:\n\nZone\tMain hormone(s)\tMain function\nZona glomerulosa\tAldosterone\tNa⁺ retention, K⁺ excretion, regulation of blood pressure\nZona fasciculata\tCortisol\tStress response, ↑ blood glucose, metabolic regulation, anti-inflammatory effects\nZona reticularis\tAndrogens (DHEA, androstenedione)\tContribute to secondary sexual characteristics and libido\n\nMnemonic: GFR → Salt, Sugar, Sex\n\nGlomerulosa → Salt → aldosterone\nFasciculata → Sugar → cortisol\nReticularis → Sex → androgens",
+            "features": "Three distinct cortical zones can be identified.\nZona glomerulosa: small cells arranged in rounded clusters/arches.\nZona fasciculata: large, pale, foamy cells arranged in straight cords extending toward the medulla; usually the widest zone.\nZona reticularis: smaller, darker-staining cells arranged in an irregular network (anastomosing cords).\nCells contain abundant lipid droplets because steroid hormones are synthesized from cholesterol.\nRich sinusoidal capillary network between cellular cords.\nCortex is separated from the medulla by the corticomedullary junction.",
+            "clinical": "Cushing syndrome: excess cortisol → central obesity, hypertension, hyperglycemia, muscle wasting, and characteristic skin changes.\nPrimary hyperaldosteronism (Conn syndrome): excess aldosterone → hypertension, hypokalemia and metabolic alkalosis.\nAddison disease: adrenal cortical insufficiency → low cortisol and aldosterone, hypotension, weakness and electrolyte abnormalities; primary disease may cause hyperpigmentation due to increased ACTH.\nCongenital adrenal hyperplasia: inherited defects in steroid synthesis, commonly 21-hydroxylase deficiency, causing impaired cortisol synthesis with increased adrenal androgen production.\nAdrenocortical tumors may produce excess cortisol, aldosterone or androgens depending on the zone involved."
+        },
+        "labels": []
     }
 ]
