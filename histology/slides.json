@@ -1,0 +1,106 @@
+[
+    {
+        "id": "simple-squamous",
+        "title": "Simple Squamous Epithelium",
+        "image": "images/simple_squamous.jpg",
+        "notes": {
+            "description": "A single layer of flattened epithelial cells specialized for rapid diffusion and filtration.",
+            "location": "Alveoli of lungs, endothelium of blood vessels, Bowman's capsule of kidney.",
+            "function": "Allows exchange of gases, nutrients, and waste products through thin barriers.",
+            "features": "Very thin cells with flattened nuclei. Cells appear like a mosaic when viewed from the surface.",
+            "clinical": "Damage to alveolar simple squamous epithelium can impair gas exchange in lung diseases."
+        },
+        "labels": []
+    },
+    {
+        "id": "simple-cuboidal",
+        "title": "Simple Cuboidal Epithelium",
+        "image": "images/simple_cuboidal.jpg",
+        "notes": {
+            "description": "A single layer of cube-shaped epithelial cells involved in secretion and absorption.",
+            "location": "Kidney tubules, thyroid follicles, small gland ducts.",
+            "function": "Secretion and absorption of substances.",
+            "features": "Round central nuclei with cells approximately equal in height and width.",
+            "clinical": "Changes in renal tubular epithelium may occur during kidney injury."
+        },
+        "labels": []
+    },
+    {
+        "id": "transitional",
+        "title": "Transitional Epithelium",
+        "image": "images/transitional.jpg",
+        "notes": {
+            "description": "A specialized epithelium capable of stretching and changing shape.",
+            "location": "Urinary bladder, ureters, renal pelvis.",
+            "function": "Allows expansion of urinary organs while maintaining a protective barrier.",
+            "features": "Multiple layers of cells with rounded superficial umbrella cells.",
+            "clinical": "Abnormal transitional epithelial changes may be associated with urinary tract tumors."
+        },
+        "labels": []
+    },
+    {
+        "id": "liver",
+        "title": "Liver Histology",
+        "image": "images/liver.jpg",
+        "notes": {
+            "description": "Liver tissue organized into hepatic lobules containing hepatocytes and sinusoids.",
+            "location": "Largest internal organ located in the right upper abdomen.",
+            "function": "Metabolism, detoxification, bile production, and plasma protein synthesis.",
+            "features": "Central vein surrounded by plates of hepatocytes with blood sinusoids.",
+            "clinical": "Chronic injury can lead to fibrosis and cirrhosis."
+        },
+        "labels": []
+    },
+    {
+        "id": "kidney",
+        "title": "Kidney Histology",
+        "image": "images/kidney.jpg",
+        "notes": {
+            "description": "Renal tissue containing nephrons responsible for filtration and urine formation.",
+            "location": "Retroperitoneal organs on either side of the vertebral column.",
+            "function": "Blood filtration, electrolyte regulation, and hormone production.",
+            "features": "Glomeruli, proximal tubules, distal tubules, and collecting ducts.",
+            "clinical": "Histological changes help identify kidney diseases such as glomerulonephritis."
+        },
+        "labels": []
+    },
+    {
+        "id": "bone",
+        "title": "Compact Bone",
+        "image": "images/bone.jpg",
+        "notes": {
+            "description": "Mineralized connective tissue providing structural support and protection.",
+            "location": "Skeleton of vertebrates.",
+            "function": "Support, protection, mineral storage, and blood cell formation.",
+            "features": "Osteons containing central canals surrounded by concentric lamellae.",
+            "clinical": "Bone remodeling disorders can affect strength and fracture risk."
+        },
+        "labels": []
+    },
+    {
+        "id": "1785833551996",
+        "title": "Esophagus",
+        "image": "images/ESOPHAGUS.png",
+        "notes": {
+            "description": "Tags\n\nA – Lumen\n\nCentral passage through which food and liquids travel.\n\nB – Non-keratinized Stratified Squamous Epithelium\n\nThick protective lining that resists abrasion during swallowing.\n\nC – Lamina Propria\n\nLoose connective tissue immediately beneath the epithelium containing blood vessels, immune cells, and occasional esophageal glands near the ends of the organ.\n\nD – Muscularis Mucosae\n\nThin layer of longitudinal smooth muscle separating the mucosa from the submucosa.\n\nE – Submucosa\n\nDense irregular connective tissue containing larger blood vessels, nerves, lymphatics, and esophageal glands proper.\n\nF – Esophageal Glands\n\nMucous glands located in the submucosa that secrete mucus to lubricate the lumen.\n\nG – Muscularis Externa\n\nTwo muscle layers responsible for peristalsis:\n\nInner circular layer\nOuter longitudinal layer\n\nH – Adventitia (or Serosa if abdominal portion)\n\nOuter connective tissue layer anchoring the esophagus to surrounding structures. Only the short abdominal segment is covered by serosa.\n\nDescription\n\nThe esophagus is a muscular tube that transports food from the pharynx to the stomach. Histologically, it is characterized by a thick non-keratinized stratified squamous epithelium for protection against abrasion and a submucosa containing mucous glands that lubricate the passage of food.",
+            "location": "Extends from the pharynx, through the neck and thorax, passes through the diaphragm, and joins the stomach at the gastroesophageal junction.",
+            "function": "Conducts food and liquids from the pharynx to the stomach.\nLubricates the food bolus through mucus secretion.\nProtects underlying tissues from mechanical abrasion.\nPropels food by coordinated peristaltic contractions.",
+            "features": "Thick non-keratinized stratified squamous epithelium.\nProminent muscularis mucosae.\nSubmucosal mucous glands.\nMuscularis externa with inner circular and outer longitudinal layers.\nMuscle composition changes along its length:\nUpper third: skeletal muscle\nMiddle third: mixed skeletal and smooth muscle\nLower third: smooth muscle\nAbsence of villi and gastric pits.",
+            "clinical": "The esophagus is commonly affected by gastroesophageal reflux disease (GERD), where chronic acid exposure damages the squamous epithelium. Persistent reflux may lead to Barrett's esophagus, in which the normal stratified squamous epithelium is replaced by intestinal-type columnar epithelium, increasing the risk of esophageal adenocarcinoma."
+        },
+        "labels": []
+    },
+    {
+        "id": "1785834719083",
+        "title": "Epididymis X10 Magnification",
+        "image": "images/epididymis.png",
+        "notes": {
+            "description": "A – Lumen\n\nLarge central cavity that commonly contains numerous spermatozoa.\n\nB – Pseudostratified Columnar Epithelium\n\nTall epithelial lining with stereocilia, responsible for sperm maturation and absorption of excess fluid.\n\nThe epididymis is a long, highly coiled duct that receives sperm from the testis. Histologically, it is composed of numerous circular or oval duct profiles lined by pseudostratified columnar epithelium with stereocilia. The lumen often contains abundant spermatozoa, and the surrounding smooth muscle facilitates sperm transport.",
+            "location": "Situated along the posterior surface of each testis and continuous with the vas deferens.",
+            "function": "Maturation of spermatozoa.\nStorage of sperm prior to ejaculation.\nReabsorption of excess testicular fluid.\nTransport of sperm to the vas deferens by smooth muscle contraction.",
+            "features": "Numerous closely packed, coiled ducts.\nLarge lumina, often filled with spermatozoa.\nPseudostratified columnar epithelium with stereocilia.\nSmooth muscle surrounding each duct.\nThin connective tissue between adjacent ducts.",
+            "clinical": "Inflammation of the epididymis (epididymitis) is commonly caused by bacterial infections, including sexually transmitted pathogens in younger men and urinary tract organisms in older men. Chronic inflammation may impair sperm transport and contribute to male infertility."
+        },
+        "labels": []
+    }
+]
