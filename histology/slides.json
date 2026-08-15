@@ -206,5 +206,31 @@
             "clinical": "Cushing syndrome: excess cortisol → central obesity, hypertension, hyperglycemia, muscle wasting, and characteristic skin changes.\nPrimary hyperaldosteronism (Conn syndrome): excess aldosterone → hypertension, hypokalemia and metabolic alkalosis.\nAddison disease: adrenal cortical insufficiency → low cortisol and aldosterone, hypotension, weakness and electrolyte abnormalities; primary disease may cause hyperpigmentation due to increased ACTH.\nCongenital adrenal hyperplasia: inherited defects in steroid synthesis, commonly 21-hydroxylase deficiency, causing impaired cortisol synthesis with increased adrenal androgen production.\nAdrenocortical tumors may produce excess cortisol, aldosterone or androgens depending on the zone involved."
         },
         "labels": []
+    },
+    {
+        "id": "1786824176760",
+        "title": "test",
+        "image": "Histology-Guide-001.jpg",
+        "notes": {
+            "description": "test",
+            "location": "test",
+            "function": "test",
+            "features": "",
+            "clinical": ""
+        },
+        "labels": []
+    },
+    {
+        "id": "1786824295872",
+        "title": "test",
+        "image": "adrenal gland 2_1.jpg",
+        "notes": {
+            "description": "",
+            "location": "",
+            "function": "",
+            "features": "",
+            "clinical": ""
+        },
+        "labels": []
     }
 ]
