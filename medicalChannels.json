@@ -125,6 +125,15 @@
         "managed": true
     },
     {
+        "name": "viva Voce",
+        "subject": "Anatomy",
+        "url": "http://www.youtube.com/@vivavoceofanatomy",
+        "icon": "https://yt3.googleusercontent.com/FpTLu79dY5KdGOxcSJwXPu5rZncjmAjNPGQYkvAQdpSPN5fNBltd62WTaRMMj_zS-BR6nrev0A=s160-c-k-c0x00ffffff-no-rj",
+        "description": "",
+        "id": "1786970110493",
+        "managed": false
+    },
+    {
         "id": "1786963596874",
         "name": "Dr Viren Kariya",
         "subject": "Anatomy cadaveric",
