@@ -232,5 +232,18 @@
             "clinical": ""
         },
         "labels": []
+    },
+    {
+        "id": "1786982834314",
+        "title": "sync 2 test",
+        "image": "elastic art_1.jpg",
+        "notes": {
+            "description": "test 2",
+            "location": "test 2",
+            "function": "",
+            "features": "",
+            "clinical": ""
+        },
+        "labels": []
     }
 ]
