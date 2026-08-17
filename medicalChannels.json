@@ -142,13 +142,12 @@
         "managed": true
     },
     {
-        "name": "Ninja nerd",
+        "id": "1785609153358",
+        "name": "sync test",
         "subject": "Biochemistry",
         "url": "https://www.youtube.com/watch?v=4eLjRcHnMCk&list=PLTF9h-T1TcJhcNo9M1VFXz6rMKT6CM_wd",
         "icon": "https://yt3.ggpht.com/K5DaLdWe9bFkSqHePP8Y-19DtmY1TLqxOCjSQ71LEoFYyY_fCgMN27GILWfNnhhVV1HkXlBl=s176-c-k-c0x00ffffff-no-rj-mo",
-        "description": "",
-        "id": "1785609153358",
-        "managed": true
+        "description": ""
     },
     {
         "name": "organic chemistry tutor",
